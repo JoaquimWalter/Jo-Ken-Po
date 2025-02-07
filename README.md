@@ -8,7 +8,9 @@ Aplicação que permite jogar o game pedra, papel, tesoura. Desenvolvida com HTM
 🛠 Tecnologias Utilizadas
 
 HTML: Estrutura.
+
 CSS: Estilização.
+
 JavaScript: Linguagem de programação.
 
 📦 Funcionalidades
